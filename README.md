@@ -4,4 +4,4 @@ Use dots to create pictures.
 
 # License
 
-This repository contains the MIT license. You must give credit if you are going to use its source code.
+This repository contains the MIT license. You must give credit if you fork the repository or copy the source code. Even if you copy a small piece of the code.
