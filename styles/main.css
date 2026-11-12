@@ -2,13 +2,21 @@
 	--background-colour: rgb(14, 14, 14);
 }
 
+body, button, input {
+	color: rgb(235, 235, 235);
+}
+
+a:active, button, input {
+	border: 2px dotted;
+}
+
 button, input {
-	color-scheme: dark;
+	background-color: rgb(45, 45, 45);
 	font-size: large;
+	border-radius: 0.25em;
 }
 
 body {
-	color: rgb(235, 235, 235);
 	background-color: var(--background-colour);
 	text-align: center;
 	font-size: x-large;
@@ -23,8 +31,12 @@ a:hover {
 	color: rgb(219, 95, 115);
 }
 
-a:active {
-	border: 2px dotted;
+button:hover {
+	background-color: rgb(64, 64, 64);
+}
+
+button:active {
+	background-color: rgb(33, 33, 33);
 }
 
 input {
