@@ -26,6 +26,7 @@ a {
 
 a:hover {
 	color: rgb(219, 95, 115);
+	text-decoration-style: dotted;
 }
 
 button:hover {
