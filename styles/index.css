@@ -2,3 +2,9 @@ div {
 	display: inline-block;
 	margin: 0 1em 0;
 }
+
+@media (scripting: none) {
+	div {
+		display: none;
+	}
+}
