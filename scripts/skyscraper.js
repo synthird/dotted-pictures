@@ -1,6 +1,6 @@
 import { drawOnEventTrigger } from "./all-pages.js";
 
-const skyscraper = document.querySelector("code"),
+const skyscraper = document.querySelector(".picture"),
 	floorsBox = document.getElementById("floors-box"),
 	rodsBox = document.getElementById("rods-box"),
 

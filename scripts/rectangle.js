@@ -1,6 +1,6 @@
 import { drawOnEventTrigger } from "./all-pages.js";
 
-const rectangle = document.querySelector("code"),
+const rectangle = document.querySelector(".picture"),
 	widthBox = document.getElementById("width-box"),
 	heightBox = document.getElementById("height-box");
 

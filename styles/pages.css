@@ -31,7 +31,7 @@ label {
 }
 
 /* Solution to the "no new line" bug : https://stackoverflow.com/questions/9980416/how-can-i-insert-new-line-carriage-returns-into-an-element-textcontent */
-code {
+.picture {
 	white-space: pre;
 }
 
